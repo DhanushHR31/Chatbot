@@ -1,0 +1,4 @@
+Chatbot
+
+Create a chatbot that can answer user queries or interact in a conversational style.
+Use libraries like ChatterBot or integrate OpenAI's GPT model.

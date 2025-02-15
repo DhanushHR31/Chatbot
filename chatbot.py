@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 # Set your OpenAI API key (use your actual key here)
-openai.api_key = "AIzaSyARB6Dkgxw93ixGUcpge0wpQuRyY4LnAgw"
+openai.api_key = "YOUR_OPENAI_API_KEY"
 
 def generate_response(prompt):
     """Generate a response from OpenAI's GPT model."""
